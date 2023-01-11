@@ -1,0 +1,250 @@
+{
+  "status": "SUCCESS",
+  "message": null,
+  "data": {
+    "total": 96,
+    "start": 1,
+    "results": [
+      {
+        "id": "7_V70xhb",
+        "name": "Mirza - Sidhu Moosewala",
+        "type": "",
+        "album": {
+          "id": "38832737",
+          "name": "Mirza - Sidhu Moosewala",
+          "url": "https://www.jiosaavn.com/album/mirza---sidhu-moosewala/gJhMMydDNVU_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "153",
+        "label": "Avee music",
+        "primaryArtists": "A-VEE",
+        "primaryArtistsId": "4830272",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "96790",
+        "language": "punjabi",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/mirza---sidhu-moosewala/Rzc9BkRIX1E",
+        "copyright": "℗ 2022 Avee music",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/780/Mirza-Sidhu-Moosewala-Punjabi-2022-20221006035923-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/780/Mirza-Sidhu-Moosewala-Punjabi-2022-20221006035923-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/780/Mirza-Sidhu-Moosewala-Punjabi-2022-20221006035923-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/780/6868f4c6b31c75b4ddaede188c830fa4_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/780/6868f4c6b31c75b4ddaede188c830fa4_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/780/6868f4c6b31c75b4ddaede188c830fa4_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/780/6868f4c6b31c75b4ddaede188c830fa4_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/780/6868f4c6b31c75b4ddaede188c830fa4_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "616axK7d",
+        "name": "SIDHU MOOSE WALA (Legends Never Die)",
+        "type": "",
+        "album": {
+          "id": "35611246",
+          "name": "SIDHU MOOSE WALA (Legends Never Die)",
+          "url": "https://www.jiosaavn.com/album/sidhu-moose-wala-legends-never-die/pfbCg6KDU8Q_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "276",
+        "label": "Litt Records",
+        "primaryArtists": "Vicky Bhullar",
+        "primaryArtistsId": "6819725",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "473113",
+        "language": "punjabi",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/sidhu-moose-wala-legends-never-die/RlldUAx7AFc",
+        "copyright": "℗ 2022 LITT RECORDS ® DIGIDOC",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/461/SIDHU-MOOSE-WALA-Legends-Never-Die-Punjabi-2022-20220609191211-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/461/SIDHU-MOOSE-WALA-Legends-Never-Die-Punjabi-2022-20220609191211-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/461/SIDHU-MOOSE-WALA-Legends-Never-Die-Punjabi-2022-20220609191211-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/461/7ddcfedec09ae6f1915816d06711a193_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/461/7ddcfedec09ae6f1915816d06711a193_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/461/7ddcfedec09ae6f1915816d06711a193_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/461/7ddcfedec09ae6f1915816d06711a193_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/461/7ddcfedec09ae6f1915816d06711a193_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "l9-Ily8z",
+        "name": "Siddhu Moosewala",
+        "type": "",
+        "album": {
+          "id": "36581251",
+          "name": "Siddhu Moosewala",
+          "url": "https://www.jiosaavn.com/album/siddhu-moosewala/3ssGgelqMPQ_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "174",
+        "label": "Modern Digital",
+        "primaryArtists": "Hardeep Ranike",
+        "primaryArtistsId": "11831265",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "90465",
+        "language": "punjabi",
+        "hasLyrics": "false",
+        "url": "https://www.jiosaavn.com/song/siddhu-moosewala/HFFGeBhJD0k",
+        "copyright": "© 2022 Modern Digital",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/319/Siddhu-Moosewala-Punjabi-2022-20220719003815-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/319/Siddhu-Moosewala-Punjabi-2022-20220719003815-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/319/Siddhu-Moosewala-Punjabi-2022-20220719003815-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/319/bf5bfbd979d58f4fc5c77a16744fa90e_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/319/bf5bfbd979d58f4fc5c77a16744fa90e_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/319/bf5bfbd979d58f4fc5c77a16744fa90e_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/319/bf5bfbd979d58f4fc5c77a16744fa90e_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/319/bf5bfbd979d58f4fc5c77a16744fa90e_320.mp4"
+          }
+        ]
+      },
+      {
+        "id": "Uus1iBtS",
+        "name": "Meri Maa - A Tribute To Legend Sidhu Moosewala",
+        "type": "",
+        "album": {
+          "id": "35572192",
+          "name": "Meri Maa - A Tribute To Legend Sidhu Moosewala",
+          "url": "https://www.jiosaavn.com/album/meri-maa---a-tribute-to-legend-sidhu-moosewala/rZdzi6OmxUI_"
+        },
+        "year": "2022",
+        "releaseDate": null,
+        "duration": "182",
+        "label": "R Nait",
+        "primaryArtists": "R Nait",
+        "primaryArtistsId": "1519038",
+        "featuredArtists": "",
+        "featuredArtistsId": "",
+        "explicitContent": 0,
+        "playCount": "598906",
+        "language": "punjabi",
+        "hasLyrics": "true",
+        "url": "https://www.jiosaavn.com/song/meri-maa---a-tribute-to-legend-sidhu-moosewala/JR0YAB1yQ2A",
+        "copyright": "℗ 2022 R Nait",
+        "image": [
+          {
+            "quality": "50x50",
+            "link": "https://c.saavncdn.com/267/Meri-Maa-A-Tribute-To-Legend-Sidhu-Moosewala-Punjabi-2022-20220608133448-50x50.jpg"
+          },
+          {
+            "quality": "150x150",
+            "link": "https://c.saavncdn.com/267/Meri-Maa-A-Tribute-To-Legend-Sidhu-Moosewala-Punjabi-2022-20220608133448-150x150.jpg"
+          },
+          {
+            "quality": "500x500",
+            "link": "https://c.saavncdn.com/267/Meri-Maa-A-Tribute-To-Legend-Sidhu-Moosewala-Punjabi-2022-20220608133448-500x500.jpg"
+          }
+        ],
+        "downloadUrl": [
+          {
+            "quality": "12kbps",
+            "link": "https://aac.saavncdn.com/267/0adcf6fd66df08b1fd7dd232bfc4d736_12.mp4"
+          },
+          {
+            "quality": "48kbps",
+            "link": "https://aac.saavncdn.com/267/0adcf6fd66df08b1fd7dd232bfc4d736_48.mp4"
+          },
+          {
+            "quality": "96kbps",
+            "link": "https://aac.saavncdn.com/267/0adcf6fd66df08b1fd7dd232bfc4d736_96.mp4"
+          },
+          {
+            "quality": "160kbps",
+            "link": "https://aac.saavncdn.com/267/0adcf6fd66df08b1fd7dd232bfc4d736_160.mp4"
+          },
+          {
+            "quality": "320kbps",
+            "link": "https://aac.saavncdn.com/267/0adcf6fd66df08b1fd7dd232bfc4d736_320.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}
